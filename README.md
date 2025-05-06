@@ -16,12 +16,12 @@ Let's make a new file called `firebase.js`.
 import firebase from 'firebase/app';
 
 const config = {
-  apiKey: 'AIzaSyAudsj8rc2TsUjwUx1ISskz-FPwEYuYlCw',
-  authDomain: 'think-piece.firebaseapp.com',
-  databaseURL: 'https://think-piece.firebaseio.com',
-  projectId: 'think-piece',
-  storageBucket: 'think-piece.appspot.com',
-  messagingSenderId: '98218894562',
+  apiKey: 'AIzaSyAudsj899999999Sskz-FPwEYuYlCw',
+  authDomain: 'demo.firebaseapp.com',
+  databaseURL: 'https://demo.firebaseio.com',
+  projectId: 'demo',
+  storageBucket: 'demo.appspot.com',
+  messagingSenderId: '981646542',
 };
 
 firebase.initializeApp(config);
